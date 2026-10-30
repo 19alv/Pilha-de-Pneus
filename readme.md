@@ -1,4 +1,4 @@
-# 🛞 Pilha de Pneus (Tire Stacker)
+#  Pilha de Pneus (Tire Stacker)
 
 Um jogo arcade 2D leve, divertido e dinâmico para navegador, desenvolvido puramente em **HTML5, CSS3 e JavaScript (Canvas)**.
 
@@ -10,7 +10,7 @@ Na **Oficina do Zé**, o mecânico do andar de cima arremessa pneus para o térr
 
 O objetivo principal é montar **10 pilhas de 5 pneus** para arrumar a oficina e vencer o jogo.
 
-### 📜 Regras Básicas
+### Regras Básicas
 
 * **1 Pilha = 5 Pneus:** Ao completar uma pilha de 5 pneus, você ganha pontos extras e recupera **1 vida** (máximo de 5 vidas).
 * **Caiu, Perdeu Vida:** Se um pneu atingir o chão sem ser pego, você perde **1 vida**.
@@ -30,33 +30,33 @@ O jogo foi projetado para jogar no computador via teclado:
 
 ---
 
-## 🟡 Tipos de Pneus
+##  Tipos de Pneus
 
 Cada pneu possui propriedades e comportamentos diferentes ao ser coletado:
 
 | Pneu | Cor | Pontos / Valor | Efeito ao Coletar |
 | :--- | :--- | :--- | :--- |
-| **Normal** | ⬛ Preto | +10 pts (1 pneu) | Não altera a física. **Limpa** efeitos de escorregão ou lentidão. |
-| **Molhado** | 🤎 Marrom | +10 pts (1 pneu) | Cai devagar, mas deixa o chão ensaboado por 4s (**Escorregando**). |
-| **Antigo** | 🩶 Cinza | +20 pts (2 pneus) | Cai mais rápido e deixa você 40% mais lento por 4s (**Pesado**). |
+| **Normal** | Preto | +10 pts (1 pneu) | Não altera a física. **Limpa** efeitos de escorregão ou lentidão. |
+| **Molhado** | Marrom | +10 pts (1 pneu) | Cai devagar, mas deixa o chão ensaboado por 4s (**Escorregando**). |
+| **Antigo** | Cinza | +20 pts (2 pneus) | Cai mais rápido e deixa você 40% mais lento por 4s (**Pesado**). |
 
 ---
 
-## ⚡ Itens e Efeitos Especiais (Power-ups & Traps)
+##  Itens e Efeitos Especiais (Power-ups & Traps)
 
 Durante a partida, itens aparecem no chão da oficina. Passe por cima deles para ativar seus efeitos por alguns segundos:
 
-### 🟢 Power-ups (Ajudam)
-* ⚡ **Turbo (Amarelo):** Aumenta significativamente sua velocidade de movimento.
-* 🎯 **Ágil (Verde):** Aumenta o controle de movimento, anula escorregões e expande a área de captura dos pneus.
+###  Power-ups (Ajudam)
+* **Turbo (Amarelo):** Aumenta significativamente sua velocidade de movimento.
+* **Ágil (Verde):** Aumenta o controle de movimento, anula escorregões e expande a área de captura dos pneus.
 
-### 🟣 Traps / Desafios (Atrapalham)
-* 🛢️ **Graxa (Roxo):** Reduz bastante a velocidade de movimentação.
-* 💥 **Terremoto (Vermelho):** O chão e a tela começam a tremer, fazendo o controle do personagem e a trajetória dos pneus oscilarem.
+###  Traps / Desafios (Atrapalham)
+*  **Graxa (Roxo):** Reduz bastante a velocidade de movimentação.
+*  **Terremoto (Vermelho):** O chão e a tela começam a tremer, fazendo o controle do personagem e a trajetória dos pneus oscilarem.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 * **HTML5:** Estruturação da aplicação.
 * **CSS3:** Estilização responsiva, suporte a tema claro/escuro e variáveis CSS.
@@ -69,7 +69,7 @@ Durante a partida, itens aparecem no chão da oficina. Passe por cima deles para
 
 ---
 
-## 🚀 Como Baixar e Jogar
+## Como Baixar e Jogar
 
 Não é necessária nenhuma instalação, servidores ou softwares adicionais.
 
@@ -77,9 +77,3 @@ Não é necessária nenhuma instalação, servidores ou softwares adicionais.
 2. Extraia o arquivo `.zip` baixado em seu computador.
 3. Clique duas vezes no arquivo `Pilha de Pneus.html` para abri-lo diretamente no seu navegador padrão (Chrome, Firefox, Edge, Safari, etc.).
 4. Divirta-se!
-
----
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Sinta-se livre para estudar, modificar e distribuir!
